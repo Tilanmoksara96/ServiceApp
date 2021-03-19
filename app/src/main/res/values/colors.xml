@@ -3,6 +3,8 @@
     <color name="colorPrimary">#26238B</color>
     <color name="colorPrimaryTeal_700">#BC0091EA</color>
     <color name="colorTeal_200">#FF03DAC5</color>
+    <color name="darkblue">#041B50</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
     <color name="colorTransparentWhite">#cccccc</color>
 </resources>
