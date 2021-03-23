@@ -6,7 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -28,7 +27,7 @@ public class Lobby extends AppCompatActivity {
         mMech = findViewById(R.id.mechButton);
         mPlumb = findViewById(R.id.plumbButton);
 
-        mLogin = findViewById(R.id.LoginBtn);
+        mLogin = findViewById(R.id.loginBtn);
 
         mClick = findViewById(R.id.textView4);
         mAbout = findViewById(R.id.AboutUs);
